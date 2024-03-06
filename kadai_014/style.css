@@ -1,8 +1,8 @@
-.body{
+body{
     font-family:"Arial","Meiryo",sans-serif;
 }
 h1{font-size: 2em;
-   font-family: "Josefin Sans"; 
+   font-family: "Josefin Sans", sans-serif; 
    letter-spacing: 1.2em;
    text-shadow: 3px 3px 2px grey;
    border-bottom: 3px solid rgb(115,115,114);
@@ -20,6 +20,7 @@ html{
 .text-skyblue{
     color: skyblue;
 }
-#basic{
+
+#basic  p{
     font-weight: bold;
 }
